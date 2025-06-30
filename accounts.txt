@@ -1,0 +1,8 @@
+employee account
+user: romeov.eustaquioiii@gmail.com
+pass: terdpogi
+
+
+admin account
+user: terd.eustaquioiii@gmail.com
+pass: terdpogi
